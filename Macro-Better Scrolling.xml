@@ -1,0 +1,10 @@
+      <macro name="Scroll Up" repeatdelay="25" guid="{MouseScrollUp}" color="4278246655" hidden="false" repeatmode="pressed">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousewheel delta="1"/>
+        </multikey>
+      </macro>
+      <macro name="Scroll Down" repeatdelay="25" guid="{MouseScrollDown}" color="4278246655" hidden="false" repeatmode="pressed">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <mousewheel delta="-1"/>
+        </multikey>
+      </macro>
